@@ -1,0 +1,41 @@
+<style>
+
+	input[type="text"]{
+		width:
+	}
+	@media(max-width:576px){
+      		#mobilecard{
+			display: flex;
+			flex-direction: column;
+			justify-content:evenly;
+			padding:10px;
+		}
+        	.card{
+ 			min-width:100%;
+			margin:5px 5px;
+       		}
+
+	}
+
+	@media(max-width:576px){
+		#mob-flex{
+			display: flex;
+			flex-direction: column;
+			width:auto;
+
+			}
+		
+		#lname{
+			margin-top:9px;
+		}	
+	}
+		
+	 	
+
+	
+
+	
+	
+		
+		
+   </style>
