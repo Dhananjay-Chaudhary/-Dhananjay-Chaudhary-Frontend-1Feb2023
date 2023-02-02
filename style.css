@@ -1,4 +1,4 @@
-@media(max-width:576px){
+@media(max-width:540px){
       		#mobilecard{
 			display: flex;
 			flex-direction: column;
@@ -12,7 +12,7 @@
 
 	}
 
-@media(max-width:576px){
+@media(max-width:540px){
 		#mob-flex{
 			display: flex;
 			flex-direction: column;
@@ -24,9 +24,9 @@
 			margin-top:9px;
 			}	
 	}
-@media(min-width:768px){
-	  .CompanyName{
-		display: none;
+@media(max-width:540px;){
+	  .hide{
+		display:block;
 	  }
 }		
 	 	
